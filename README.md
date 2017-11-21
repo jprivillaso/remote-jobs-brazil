@@ -14,6 +14,7 @@ Name | Website
 Abacomm | http://www.abacomm.com.br/
 Agrid | https://www.linkedin.com/company/2769994/
 AlgaWorks | https://algaworks.recruiterbox.com/
+AllTech | http://alltechconsultoria.com.br/
 Ampla Visão | http://www.amplavisao.com/
 App2Sales | http://www.app2sales.com/
 Avante | http://www.avante.com.vc
